@@ -1,33 +1,26 @@
-name: GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - master  # Set a branch to trigger deployment
-  pull_request:
+      - master
 
 jobs:
   deploy:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout public branch
+        uses: actions/checkout@v3
         with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          ref: public
+          path: ./public
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '0.91.2'
-          # extended: true # Uncomment if you need SCSS/SASS support
-
-      - name: Build
-        run: hugo --minify
-
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ secrets.HUGO_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-          publish_branch: public
+          # By default, this action pushes to the 'gh-pages' branch.
+          # If your GitHub Pages is configured to use a different branch,
+          # you can specify it with the 'publish_branch' option.
+          # publish_branch: gh-pages
