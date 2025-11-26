@@ -3,7 +3,7 @@ name: Deploy Hugo Site
 on:
   push:
     branches:
-      - master # Triggers only when you push changes to your source code (master)
+      - master
 
 jobs:
   deploy:
@@ -12,33 +12,22 @@ jobs:
       - name: 1. Checkout Hugo Source Code (master branch)
         uses: actions/checkout@v3
         with:
-          # Checkout the branch that contains your Hugo source files.
-          submodules: true      # Fetch Hugo themes (if used as submodules)
-          fetch-depth: 0        # Fetch all history for use with a theme
+          submodules: true
+          fetch-depth: 0
 
       - name: 2. Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest' # Or specify a version like '0.121.0'
-          # extended: true # Uncomment if you need Sass/SCSS support
+          hugo-version: 'latest'
 
       - name: 3. Build Hugo Site
         run: |
           # The 'public' directory is created here with the generated static files
           hugo --minify
 
-      # ⚠️ The original step to checkout the 'public' branch is no longer needed here.
-      # The deployment action handles pushing to the target branch.
-
       - name: 4. Deploy to GitHub Pages (Push to public branch)
         uses: peaceiris/actions-gh-pages@v3
         with:
-          # ❌ IMPORTANT FIX: You must use the PAT secret you created earlier.
-          # The default GITHUB_TOKEN does not have the permissions needed to push back.
-          github_token: ${{ secrets.HUGO_DEPLOY_TOKEN }} # <--- USE YOUR PAT SECRET
-
-          # The directory that contains the built static files (created by the hugo command)
+          github_token: ${{ secrets.HUGO_TOKEN }}
           publish_dir: ./public
-
-          # The branch where the static site will be hosted
-          publish_branch: public # <--- Pushes the contents of 'public' folder to the 'public' branch
+          publish_branch: public
