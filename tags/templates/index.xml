@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Templates on Blog</title><link>https://pukkachomby.github.io/tags/templates/</link><description>Recent content in Templates on Blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://pukkachomby.github.io/tags/templates/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://pukkachomby.github.io/posts/test/</link><pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate><guid>https://pukkachomby.github.io/posts/test/</guid><description>&lt;h1 id="test"&gt;Test&lt;/h1&gt;
-&lt;h2 id="test-1"&gt;Test&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Test&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Templates on Mark's Blog</title><link>/tags/templates/</link><description>Recent content in Templates on Mark's Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="/tags/templates/index.xml" rel="self" type="application/rss+xml"/><item><title>(Hu)go Template Primer</title><link>/post/hugo-template-primer/</link><pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate><guid>/post/hugo-template-primer/</guid><description>&lt;p&gt;Hugo uses the excellent [Go][] [html/template][gohtmltemplate] library for
+its template engine. It is an extremely lightweight engine that provides a very
+small amount of logic. In our experience that it is just the right amount of
+logic to be able to create a good static website. If you have used other
+template systems from different languages or frameworks you will find a lot of
+similarities in Go templates.&lt;/p&gt;</description></item></channel></rss>
