@@ -30,7 +30,6 @@ More text.
 ```
 
 # Favicon colors
-
 There is no way to do this on the fly with Hugo, but you can use the one-liners below with some preparations:
 
 1. Copy:
@@ -48,7 +47,6 @@ a=#5300ff;a=\\x${a:5:2}\\x${a:3:2}\\x${a:1:2};for i in 98 274 578;do printf $a|d
 ```
 a=#5300ff;a=$(echo 504C54452A2A2A${a:1:6}|sed -e 's/../\\x&/g');printf $a|gzip|tail -c8|od -tx4 -N4 -An|xargs|sed -e 's/../\\x&/g'|printf $a$(cat -)|dd of=static/apple-touch-icon.png bs=1 seek=37 conv=notrunc
 ```
-
 
 # Theme Info
 ## Mainroad (current)

@@ -21,7 +21,7 @@ theme = "mainroad"
   avatar = "img/avatar.png"
 
 [Params.logo]
-  subtitle = "Rice is a good source of rice" # Logo subtitle
+  subtitle = "Tech for Dads" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
