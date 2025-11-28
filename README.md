@@ -11,7 +11,7 @@ FOLLOW THE BELOW DIRECTIONS PRECISELY AND PROCESS THE ARTICLE IN THIS MANNER:
     * Emojis
 * Replace em dashes with two dashes (`--`) or semi-colons (favor semi-colons unless two dashes are objectively more appropriate)
 * Output in HUGO-friendly markdown format
-* Output in monospace text, and if you can't do that, then output as a single codeblock
+* Output in a single monospace text field, even for code, and code should not be placed in separate code blocks ever
 * Special formatting
     * Include yaml front matter like this (note that the categories are ranked in terms of importance, also: Tags and Categories are capitalized, and never contain an ampersand):
     ```yaml
@@ -34,7 +34,10 @@ FOLLOW THE BELOW DIRECTIONS PRECISELY AND PROCESS THE ARTICLE IN THIS MANNER:
     <!--more-->
     ```
     * Never add `***` or `---` or add anything else to break-up sections
-    * Never use Level 1 headers
+    * Headers
+        * Never use Level 1 headers (use Level 2 instead)
+        * Never use Level 3 headers (use Level 4 instead)
+        * You may make Level 4 headers as needed and no special formatting rules apply, however only make Level 4 headers when absolutely necessary
     * To summarize and clarify this special formatting, refer to this combined minimal example:
     ```
     ---
@@ -52,10 +55,13 @@ FOLLOW THE BELOW DIRECTIONS PRECISELY AND PROCESS THE ARTICLE IN THIS MANNER:
 
     <!--more-->
 
-    ## Use Header 2
+    ## Header 2
     Body text.
 
-    ## Use Header 2
+    ## Header 2
+    #### Header 4
+    Body text.
+    #### Header 4
     End of document.
     ```
 * For tables, prefer left-aligned text like this:
@@ -64,7 +70,6 @@ FOLLOW THE BELOW DIRECTIONS PRECISELY AND PROCESS THE ARTICLE IN THIS MANNER:
 | :---------------- | :-------------------- |
 | Cell Contents     | Cell Contents         |
 ```
-* You may make Level 3-4 headers as needed and no special formatting rules apply, however only make Level 3 headers when absolutely necessary and Level 4 headers should only be used in extreme circumstances
 
 <br>
 
@@ -97,6 +102,19 @@ MISC
     * gemini in brave (below)
     * Antiporn in Brave -> update lists monthly
     * YouTube Kids (in Brave)
+* iphone media: qbit, smb, metube, Tailscale, vlc
+    * Samba
+        * Optional (iCloud Drive is perfectly serviceable, or do tailscale file cp)
+        * Also found in ~/README.md
+        * https://hub.docker.com/r/dockurr/samba
+        * iOS/MacOS setup
+        * Server: <tailscale-ip>/Data
+        * Enter user/pass from compose.yaml
+* Future app ideas
+    * **Obsidian** with iCloud sync.
+    * https://netnewswire.com/ (rss, macos/ios, free sync)
+* **macOS Optimizer:** A link to a tool for system optimization.
+    * [https://github.com/sickcodes/osx-optimizer](https://github.com/sickcodes/osx-optimizer)
 * https://familyfocusblog.com/top-food-storage-tips-for-your-thanksgiving-leftovers/
 * https://familyfocusblog.com/family-cleaning-schedule/
 * https://familyfocusblog.com/51-tips-for-traveling-with-family/
