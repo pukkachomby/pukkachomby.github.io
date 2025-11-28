@@ -23,7 +23,7 @@ AdGuard DNS helps block ads, trackers, malware, and adult websites.  Their Famil
 * Adding it to a browser doesn't protect them if they install another browser
 
 ## Two Methods
-### Method 1
+#### Method 1
 * On the child's iPhone, browse to [AdGuard's site](https://adguard-dns.io/en/public-dns.html)
     * Expand `Option 2`
     * Expand `iOS`
@@ -44,7 +44,7 @@ AdGuard DNS helps block ads, trackers, malware, and adult websites.  Their Famil
     * To uninstall:
         * Click on `AdGuard DNS` &rarr; `Remove Profile`
 
-### Method 2
+#### Method 2
 * On the child's iPhone, in iOS Settings:
     * Click `Wi-Fi`
     * Click the `(i)` symbol for the current network
