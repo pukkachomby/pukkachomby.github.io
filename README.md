@@ -92,9 +92,9 @@ MISC
 | Scribbr         | Approx 200 words      | $5.00                         | Academic and flow editing         |
 * ai enhancement (above)
 * gemini api key
-* iphone ai summary shortcut
+* iphone ai summary shortcut (test w honey's phone first)
 * brave stuff
-    * gemini in brave
+    * gemini in brave (below)
     * Antiporn in Brave -> update lists monthly
     * YouTube Kids (in Brave)
 * https://familyfocusblog.com/top-food-storage-tips-for-your-thanksgiving-leftovers/
