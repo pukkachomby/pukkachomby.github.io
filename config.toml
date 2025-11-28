@@ -18,10 +18,10 @@ theme = "mainroad"
 [Params.Author]
   name = "Mark"
   bio = "Mark is a guy who does things."
-  avatar = "img/avatar.png"
+  # avatar = "img/avatar.png"
 
 [Params.logo]
-  subtitle = "Tech for Dads" # Logo subtitle
+  subtitle = "Tech + Family Stuff" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page

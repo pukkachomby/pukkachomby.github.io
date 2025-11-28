@@ -1,5 +1,5 @@
 ---
-title: "Adguard DNS"
+title: "Block The Bad Sites"
 date: 2025-11-27
 tags:
   - "AdGuard"
@@ -10,25 +10,19 @@ tags:
   - "Internet Safety"
 categories:
   - "Cybersecurity"
-  - "Parenting & Family"
+  - "Parenting"
 ---
 
 AdGuard DNS helps block ads, trackers, malware, and adult websites.  Their Family protection servers are perfect for keeping kids safe.
 
 <!--more-->
 
-&nbsp;
-
 ## Best Practices
----
 * The best thing to do is use AdGuard DNS on a device-level
 * Adding it on a router level doesn't protect children when they turn on cellular
 * Adding it to a browser doesn't protect them if they install another browser
 
-&nbsp;
-
 ## Two Methods
----
 ### Method 1
 * On the child's iPhone, browse to [AdGuard's site](https://adguard-dns.io/en/public-dns.html)
     * Expand `Option 2`
@@ -63,4 +57,3 @@ AdGuard DNS helps block ads, trackers, malware, and adult websites.  Their Famil
     2a10:50c0::bad1:ff
     2a10:50c0::bad2:ff
     ```
-
