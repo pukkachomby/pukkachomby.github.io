@@ -1,5 +1,6 @@
 # Posts
 [ai-humanizers](ai-humanizers)
+[humanized-by-ai](humanized-by-ai)
 [ai-prompting](ai-prompting)
 [apple-and-linux](apple-and-linux)
 [block-the-bad-sites](block-the-bad-sites)
@@ -8,78 +9,6 @@
 [gemini-flavors](gemini-flavors)
 [thankgiving-reheating](thankgiving-reheating)
 
-# AI Enhancement
-* Open Brave's AI and switch to `Automatic`, choose `Improve` and output the improved version
-* Switch to `Gemini` and type the below:
-
-FOLLOW THE BELOW DIRECTIONS PRECISELY AND PROCESS THE ARTICLE IN THIS MANNER:
-* Restructure the article to make it more coherent
-* Do not adjust the wording, writing style, or tone of the article
-    * Just reorder/move around/restructure, and make more fluid but still matching the original writing style
-* Remove:
-    * Bold words
-    * Emojis
-* Replace em dashes with two dashes (`--`) or semi-colons (favor semi-colons unless two dashes are objectively more appropriate)
-* Output in HUGO-friendly markdown format
-* Output in a single monospace text field, even for code, and code should not be placed in separate code blocks ever
-* Special formatting
-    * Include yaml front matter like this (note that the categories are ranked in terms of importance, also: Tags and Categories are capitalized, and never contain an ampersand):
-    ```yaml
-    ---
-    title: "The Title"
-    date: YYYY-MM-DD
-    tags:
-      - "Tag 1"
-      - "Tag 2"
-    categories:
-      - "Category 1"
-      - "Category 2"
-    ---
-    ```
-    * Immediately after the yaml front matter, write this, copying the format exactly (including the blank lines):
-    ```markdown
-
-    Make 2-3 sentences here which provide an overview of the article here, totalling no more than 30 words.  It should match the writing style of the article.
-
-    <!--more-->
-    ```
-    * Never add `***` or `---` or add anything else to break-up sections
-    * Headers
-        * Never use Level 1 headers (use Level 2 instead)
-        * Never use Level 3 headers (use Level 4 instead)
-        * You may make Level 4 headers as needed and no special formatting rules apply, however only make Level 4 headers when absolutely necessary
-    * To summarize and clarify this special formatting, refer to this combined minimal example:
-    ```
-    ---
-    title: "The Title"
-    date: YYYY-MM-DD
-    tags:
-      - "Tag 1"
-      - "Tag 2"
-    categories:
-      - "Category 1"
-      - "Category 2"
-    ---
-
-    Make 2-3 sentences here which provide an overview of the article here, totalling no more than 30 words.  It should match the writing style of the article.
-
-    <!--more-->
-
-    ## Header 2
-    Body text.
-
-    ## Header 2
-    #### Header 4
-    Body text.
-    #### Header 4
-    End of document.
-    ```
-* For tables, prefer left-aligned text like this:
-```
-| Column Title      | Column Title          |
-| :---------------- | :-------------------- |
-| Cell Contents     | Cell Contents         |
-```
 
 <br>
 
@@ -105,6 +34,7 @@ MISC
 | Grammarly       | Included in Free plan | $12.00                        | Tone and flow refinement          |
 | Writesonic      | Limited free credits  | $16.00                        | Full suite of SEO and AI tools    |
 | Scribbr         | Approx 200 words      | $5.00                         | Academic and flow editing         |
+* Meal planning: no worry about spoilage. Less shit I need to worry about.  Nutrient dispersion better.
 * ai enhancement (above, in the README)
 * gemini api key
 * iphone ai summary shortcut (test w honey's phone first)

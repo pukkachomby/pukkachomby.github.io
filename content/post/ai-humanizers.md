@@ -1,5 +1,5 @@
 ---
-title: "The Great AI Humanizer Showdown: Are Rewriting Tools Worth It?"
+title: "The Great AI Humanizer Showdown"
 date: 2025-11-30
 tags:
   - "Ai"
@@ -97,7 +97,7 @@ Original text: https://familyfocusblog.com/top-food-storage-tips-for-your-thanks
 * Paste Gemini's output into Grammarly
     * Section 1: `Create a TL;DR` → `Turn bullets into prose`
     * Section 2: `Turn bullets into prose`
-    * Seciton 3: `Turn bullets into prose` -> `Shorten it`
+    * Seciton 3: `Turn bullets into prose` → `Shorten it`
     * The whole text:
         * `Improve it`
         * Manual prompt: "Create an introductory paragraph"
