@@ -5,9 +5,10 @@ tags:
   - "Cooking tips"
   - "Leftovers"
   - "Turkey"
-categories:
   - "Recipes"
   - "Food hacks"
+categories:
+  - "Family"
 ---
 
 Learn how to make starches and meats taste fresh, or even better.

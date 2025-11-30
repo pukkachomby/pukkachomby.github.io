@@ -9,10 +9,11 @@ tags:
   - "Quotas"
   - "Usage Limits"
   - "Free Tier"
-categories:
   - "Google AI"
   - "Developer Tools"
   - "AI Services"
+categories:
+  - "Tech"
 ---
 
 Gemini access methods, including the web app, API, and CLI, utilize distinct quota systems and billing structures. Each method operates with its own specific usage limits.

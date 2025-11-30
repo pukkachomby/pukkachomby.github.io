@@ -8,8 +8,7 @@ tags:
   - "Grammarly"
   - "Content creation"
 categories:
-  - "Technology"
-  - "Reviews"
+  - "Tech"
 ---
 
 AI humanizers/rewriters are special tools to transform AI-generated content into seemingly human-written material.  But are they actually good?  Let's explore together.

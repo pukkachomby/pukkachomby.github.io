@@ -6,9 +6,10 @@ tags:
   - "MacOS"
   - "CLI"
   - "Optimization"
-categories:
   - "Technical Guides"
   - "Command Line Tools"
+categories:
+  - "Tech"
 ---
 
 This guide details various Homebrew upgrade commands and flags. It also provides a script to make Homebrew faster on MacOS by optimizing its configuration.

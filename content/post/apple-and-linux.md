@@ -12,10 +12,11 @@ tags:
   - "VNC"
   - "SPICE"
   - "Rclone"
-categories:
   - "Operating Systems"
   - "Networking"
   - "Cloud Management"
+categories:
+  - "Tech"
 ---
 
 This post explores various methods for connecting to Linux from macOS, including virtualization and remote access. It also covers connecting to macOS from Linux and managing iCloud files.

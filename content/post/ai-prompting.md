@@ -4,9 +4,10 @@ date: 2025-11-28
 tags:
   - "AI Prompting"
   - "Prompt Engineering"
-categories:
   - "Artificial Intelligence"
   - "Machine Learning"
+categories:
+  - "Tech"
 ---
 
 Effective AI prompting involves defining roles, providing context, specifying output formats, and using examples to guide responses. Advanced techniques enhance reasoning and problem-solving.

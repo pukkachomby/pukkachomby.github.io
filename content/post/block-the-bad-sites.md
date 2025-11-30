@@ -8,9 +8,11 @@ tags:
   - "iOS"
   - "iPhone"
   - "Internet Safety"
-categories:
   - "Cybersecurity"
   - "Parenting"
+categories:
+  - "Family"
+  - "Tech"
 ---
 
 AdGuard DNS helps block ads, trackers, malware, and adult websites.  Their Family protection servers are perfect for keeping kids safe.
