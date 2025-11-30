@@ -3,6 +3,7 @@ title = "Mark's Blog"
 languageCode = "en-us"
 pagination.pagerSize = 10 # Number of posts per page
 theme = "mainroad"
+ignorefiles = [ "index.md" ]
 
 [Params]
   description = "Mark's Blog" # Description of your site
