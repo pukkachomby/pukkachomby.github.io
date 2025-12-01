@@ -2,10 +2,8 @@
 title: "Effective AI Prompting Strategies"
 date: 2025-11-28
 tags:
-  - "AI Prompting"
+  - "AI"
   - "Prompt Engineering"
-  - "Artificial Intelligence"
-  - "Machine Learning"
 categories:
   - "Tech"
 ---

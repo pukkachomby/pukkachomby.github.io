@@ -5,13 +5,9 @@ tags:
   - "Gemini"
   - "API"
   - "CLI"
-  - "Web App"
-  - "Quotas"
-  - "Usage Limits"
-  - "Free Tier"
-  - "Google AI"
-  - "Developer Tools"
-  - "AI Services"
+  - "Google"
+  - "AI"
+  - "Development"
 categories:
   - "Tech"
 ---

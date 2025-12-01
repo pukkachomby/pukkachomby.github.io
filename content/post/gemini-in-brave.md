@@ -4,13 +4,8 @@ date: 2025-12-01
 tags:
  - "Gemini"
  - "AI"
- - "Llama"
- - "Brave Browser"
- - "Leo AI"
- - "AI Setup"
- - "Custom Model"
- - "Tech Tutorial"
- - "AI Assistant"
+ - "Google"
+ - "Development"
 categories:
   - "Tech"
 ---

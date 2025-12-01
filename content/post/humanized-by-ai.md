@@ -2,16 +2,11 @@
 title: "Humanized By AI"
 date: 2025-11-30
 tags:
-  - "AI Writing"
-  - "AI Chatbots"
+  - "AI"
   - "Gemini"
-  - "Leo"
-  - "Brave"
   - "Blogging"
   - "Content Creation"
   - "Writing Tools"
-  - "Free AI"
-  - "Editing"
 categories:
   - "Tech"
 ---
@@ -116,4 +111,5 @@ After some playing around, I think I have a simple but effective procedure for h
 | :---------------- | :-------------------- |
 | Cell Contents     | Cell Contents         |
 ```
+
 ---

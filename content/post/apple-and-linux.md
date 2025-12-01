@@ -6,15 +6,9 @@ tags:
   - "macOS"
   - "Docker"
   - "Virtualization"
-  - "iCloud"
-  - "Remote Access"
-  - "SSH"
-  - "VNC"
-  - "SPICE"
-  - "Rclone"
-  - "Operating Systems"
   - "Networking"
-  - "Cloud Management"
+  - "Operating Systems"
+  - "Apple"
 categories:
   - "Tech"
 ---

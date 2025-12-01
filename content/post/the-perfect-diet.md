@@ -3,16 +3,13 @@ title: "The Perfect Diet"
 date: 2025-12-01
 tags:
   - "Diet"
-  - "Meal plan"
-  - "AI experiment"
-  - "Low oxalate"
   - "Nutrition"
-  - "Gemini"
-  - "AI prompting"
   - "Health"
-  - "3rd world"
+  - "AI"
+  - "Gemini"
+  - "Prompt Engineering"
 categories:
-  - "Family"
+  - "Food"
   - "Tech"
 ---
 
@@ -109,7 +106,8 @@ Given my criteria, Gemini outputted this list:
 | Oranges                   | 7 units                   |
 | Bananas                   | 6 units                   |
 | Eggs                      | 16 units                  |
-| Mushrooms                 | 600 g                     |
+| Mushrooms                 | 300 g                     |
+| Bello peppers             | 300 g                     |
 | Hard cheese               | 75 g                      |
 | Milk (whole)              | 1000 g (1 L)              |
 | White bread               | 3 slices                  |

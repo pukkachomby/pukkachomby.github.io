@@ -2,14 +2,9 @@
 title: "Block The Bad Sites"
 date: 2025-11-27
 tags:
-  - "AdGuard"
-  - "DNS"
-  - "Parental Controls"
-  - "iOS"
-  - "iPhone"
   - "Internet Safety"
-  - "Cybersecurity"
-  - "Parenting"
+  - "Parental Controls"
+  - "Security"
 categories:
   - "Family"
   - "Tech"

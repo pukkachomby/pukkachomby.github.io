@@ -2,13 +2,12 @@
 title: "Reheating Thanksgiving Food"
 date: 2025-11-28
 tags:
-  - "Cooking tips"
-  - "Leftovers"
-  - "Turkey"
+  - "Cooking"
+  - "Food"
   - "Recipes"
-  - "Food hacks"
 categories:
   - "Family"
+  - "Food"
 ---
 
 Learn how to make starches and meats taste fresh, or even better.
