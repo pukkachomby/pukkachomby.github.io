@@ -60,7 +60,7 @@ After some playing around, I think I have a simple but effective procedure for h
 * Output in a single monospace text field, even for code, and code should not be placed in separate code blocks ever
 * Special formatting
     * Include yaml front matter like this (note that the categories are either "Family" and/or "Tech", also: Tags and Categories are capitalized, and never contain an ampersand):
-    ```yaml
+    ```
     ---
     title: "The Title"
     date: YYYY-MM-DD
@@ -73,7 +73,7 @@ After some playing around, I think I have a simple but effective procedure for h
     ---
     ```
     * Immediately after the yaml front matter, write this, copying the format exactly (including the blank lines):
-    ```markdown
+    ```
 
     Make 2-3 sentences here which provide an overview of the article here, totalling no more than 30 words.  It should match the writing style of the article.
 
