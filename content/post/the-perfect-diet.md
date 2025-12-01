@@ -13,8 +13,6 @@ categories:
   - "Tech"
 ---
 
-This was a rough one! I asked AI to make me a perfect diet and meal plan. Getting the results was brutal, and the diet may surprise you.
-
 This was a rough one!  I asked AI to make me a perfect diet and meal plan.  Getting the results was brutal, and the diet may surprise you.
 
 <!--more-->
@@ -167,13 +165,10 @@ So it seems like we have a situation where *if you want it done right, you have 
 
 **The meal plan**, made by yours truly, expressed in terms of `Servings` and `Food`:
 
-| Sun        | Mon           | Tue        | Wed           | Thu        | Fri           | Sat       |
-|:-----------|:--------------|:-----------|:--------------|:-----------|:--------------|:----------|
-| All Salmon | Fish sandwich | 2 Pork     | Fish sandwich | 2 Chicken  | Fish sandwich | 2 Pork    |
-| 4 Egg      | 1 Pork        | 1 Slaw     | 3 Chicken     | 1 Pork     | 1 Pork        | 2 Slaw    |
-| 2 Banana   | 6 Egg         | 1 Mushroom | 3 Egg         | 1 Slaw     | 3 Egg         | 2 Avocado |
-| 2 Mushroom | 4 Banana      | 2 Kale     | 1 Slaw        | All Pepper | All Potato    | 3 Cheese  |
-| 2 Kale     | 1 Orange      | 1 Cheese   | 3 Orange      | 2 Kale     | 3 Orange      |           |
-| 2 Milk     | 2 Nori        | 1 Milk     | 2 Nori        | 1 Milk     | 3 Avocado     |           |
-|            |               |            |               | 1 Cheese   | 2 Nori        |           |
-
+* **Sunday:** All Salmon, 4 Egg, 2 Banana, 2 Mushroom, 2 Kale, 2 Milk
+* **Monday:** Fish sandwich, 1 Pork, 6 Egg, 4 Banana, 1 Orange, 2 Nori
+* **Tuesday:** 2 Pork, 1 Slaw, 1 Mushroom, 2 Kale, 1 Cheese, 1 Milk
+* **Wednesday:** Fish sandwich, 3 Chicken, 3 Egg, 1 Slaw, 3 Orange, 2 Nori
+* **Thursday:** 2 Chicken, 1 Pork, 1 Slaw, All Pepper, 2 Kale, 1 Milk, 1 Cheese
+* **Friday:** Fish sandwich, All Potato, 1 Pork, 3 Egg, 3 Orange, 3 Avocado, 2 Nori
+* **Saturday:** 2 Pork, 2 Slaw, 2 Avocado, 3 Cheese

@@ -1,14 +1,16 @@
 # Posts
-[the-perfect-diet](the-perfect-diet)
-[gemini-in-brave](gemini-in-brave)
 [ai-humanizers](ai-humanizers)
 [ai-prompting](ai-prompting)
 [apple-and-linux](apple-and-linux)
 [block-the-bad-sites](block-the-bad-sites)
 [brew-notes](brew-notes)
 [gemini-flavors](gemini-flavors)
+[gemini-in-brave](gemini-in-brave)
 [humanized-by-ai](humanized-by-ai)
+[parental-controls](parental-controls)
 [thankgiving-reheating](thankgiving-reheating)
+[the-perfect-diet](the-perfect-diet)
+[the-perfect-diet2](the-perfect-diet2)
 
 
 DRAFTS
