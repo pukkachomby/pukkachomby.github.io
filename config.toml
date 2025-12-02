@@ -22,7 +22,7 @@ ignorefiles = [ "index.md" ]
   # avatar = "img/avatar.png"
 
 [Params.logo]
-  subtitle = "Tech + Family Stuff" # Logo subtitle
+  subtitle = "From repo to read" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page

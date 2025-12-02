@@ -5,6 +5,8 @@ tags:
   - ""
 categories:
   - "Family"
+  - "Food"
+  - "Misc"
   - "Tech"
 ---
 
