@@ -82,5 +82,7 @@ This post explores various methods for connecting to Linux from macOS, including
 * For backing up iCloud photos, **icloud_photos_downloader** provides a CLI-based solution that requires both Docker and Python installations to function, offering granular control over the download process.
 * Alternatively, **docker-icloudpd** presents a robust Docker-based solution specifically designed for downloading iCloud photos, simplifying deployment and management through containerization.
 * Links:
-    * [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
+    * [iCloud-docker](https://github.com/mandarons/icloud-docker) (also for iCloud Drive!)
+    * [iCloud_Photos_Downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader)
     * [docker-icloudpd](https://github.com/boredazfcuk/docker-icloudpd)
+    * [iCloud Photos Sync](https://github.com/steilerDev/icloud-photos-sync)

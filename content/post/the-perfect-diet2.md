@@ -67,8 +67,8 @@ In fashioning the diet myself, however, I discovered there there are, in fact, l
 
 * **Sunday:** 300g Salmon, 4 Egg, 5 Banana
 * **Monday:** 217g Pork, Fish sandwich, 250g Milk, 2 Orange, 65g Seed
-* **Tuesday:** 434g Pork, 250g Milk, 1/5 Slaw, 2 Orange, 65 Seed
+* **Tuesday:** 434g Pork, 250g Milk, 1/5 Slaw, 2 Orange, 65g Seed
 * **Wednesday:** 250g Chicken, Fish sandwich, 250g Milk, 1/5 Slaw, 100g Cacao
-* **Thursday:** 217g Pork, 6 Egg, 1/5 Slaw, 2 Orange, 65 Seed
+* **Thursday:** 217g Pork, 6 Egg, 1/5 Slaw, 2 Orange, 65g Seed
 * **Friday:** 217g Pork, Fish sandwich, 250g Milk, 2 Potato, 2 Avocado, 100g Cacao
-* **Saturday:** 217g Pork, 6 Egg, 2/5 Slaw, 2 Avocado, 65 Seed
+* **Saturday:** 217g Pork, 6 Egg, 2/5 Slaw, 2 Avocado, 65g Seed
