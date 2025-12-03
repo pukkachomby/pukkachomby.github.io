@@ -2,9 +2,8 @@
 title: "Reheating Thanksgiving Food"
 date: 2025-11-28
 tags:
-  - "Cooking"
-  - "Food"
-  - "Recipes"
+  - "Food & Cooking"
+  - "Recipe"
 categories:
   - "Family"
   - "Food"

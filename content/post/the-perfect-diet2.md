@@ -2,10 +2,9 @@
 title: "The Perfect Diet 2"
 date: 2025-12-01
 tags:
-  - "Diet"
-  - "Nutrition"
-  - "Health"
-  - "Food"
+  - "Diet & Nutrition"
+  - "Health & Wellness"
+  - "Food & Cooking"
 categories:
   - "Food"
   - "Tech"

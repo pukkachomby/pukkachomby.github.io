@@ -2,13 +2,12 @@
 title: "Linux Power on macOS"
 date: 2025-11-28
 tags:
-  - "Linux"
-  - "macOS"
-  - "Docker"
-  - "Virtualization"
-  - "Networking"
+  - "Apple Ecosystem"
   - "Operating Systems"
-  - "Apple"
+  - "Linux"
+  - "Virtualization"
+  - "Docker"
+  - "Networking"
 categories:
   - "Tech"
 ---

@@ -4,13 +4,9 @@ date: 2025-12-01
 tags:
   - "Parental Controls"
   - "Internet Safety"
-  - "Kids"
-  - "Technology"
+  - "Kids & Technology"
   - "Social Media"
-  - "iPhone"
-  - "YouTube Kids"
-  - "Facebook"
-  - "Messenger Kids"
+  - "Security"
 categories:
   - "Family"
   - "Tech"

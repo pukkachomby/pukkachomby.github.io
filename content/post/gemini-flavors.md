@@ -3,11 +3,9 @@ title: "The Flavors of Gemini"
 date: 2025-11-28
 tags:
   - "Gemini"
-  - "API"
-  - "CLI"
+  - "Development"
   - "Google"
   - "AI"
-  - "Development"
 categories:
   - "Tech"
 ---

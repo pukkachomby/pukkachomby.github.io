@@ -2,9 +2,8 @@
 title: "The Perfect Diet"
 date: 2025-12-01
 tags:
-  - "Diet"
-  - "Nutrition"
-  - "Health"
+  - "Diet & Nutrition"
+  - "Health & Wellness"
   - "AI"
   - "Gemini"
   - "Prompt Engineering"

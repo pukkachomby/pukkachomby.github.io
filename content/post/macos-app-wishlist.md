@@ -2,7 +2,7 @@
 title: "macOS App Wishlist"
 date: 2025-12-02
 tags:
-  - ""
+  - "macOS Apps"
 categories:
   - "Tech"
 ---

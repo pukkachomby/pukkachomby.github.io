@@ -2,10 +2,10 @@
 title: "Gemini In Brave"
 date: 2025-12-01
 tags:
- - "Gemini"
- - "AI"
- - "Google"
- - "Development"
+  - "Gemini"
+  - "AI"
+  - "Google"
+  - "Development"
 categories:
   - "Tech"
 ---

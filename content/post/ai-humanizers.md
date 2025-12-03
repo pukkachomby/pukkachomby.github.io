@@ -3,8 +3,7 @@ title: "The Great AI Humanizer Showdown"
 date: 2025-11-30
 tags:
   - "AI"
-  - "Content Creation"
-  - "Writing Tools"
+  - "Content & Writing"
 categories:
   - "Tech"
 ---

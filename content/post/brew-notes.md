@@ -3,8 +3,7 @@ title: "Homebrew Commands and Optimization"
 date: 2025-11-28
 tags:
   - "Homebrew"
-  - "macOS"
-  - "CLI"
+  - "Apple Ecosystem"
   - "Development"
 categories:
   - "Tech"
