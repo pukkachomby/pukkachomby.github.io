@@ -1,6 +1,6 @@
 ---
 title: "Humanized By AI"
-date: 2025-11-30
+date: 2026-02-04
 tags:
   - "AI"
   - "Gemini"

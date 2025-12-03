@@ -1,6 +1,6 @@
 ---
 title: "Best Musk Quotes"
-date: 2025-12-03
+date: 2026-01-21
 tags:
   - "Elon Musk"
   - "Business"

@@ -1,6 +1,6 @@
 ---
 title: "Effective AI Prompting Strategies"
-date: 2025-11-28
+date: 2025-12-10
 tags:
   - "AI"
   - "Prompt Engineering"

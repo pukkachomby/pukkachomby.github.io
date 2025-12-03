@@ -8,7 +8,7 @@
 [humanized-by-ai](humanized-by-ai)
 [macos-app-wishlist](macos-app-wishlist)
 [protect-kids-on-internet](protect-kids-on-internet)
-[thankgiving-reheating](thankgiving-reheating)
+[thankgiving-reheating](thanksgiving-reheating)
 [the-perfect-diet2](the-perfect-diet2)
 [the-perfect-diet](the-perfect-diet)
 

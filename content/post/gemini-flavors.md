@@ -1,6 +1,6 @@
 ---
 title: "The Flavors of Gemini"
-date: 2025-11-28
+date: 2025-12-31
 tags:
   - "Gemini"
   - "Development"

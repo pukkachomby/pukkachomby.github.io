@@ -1,6 +1,6 @@
 ---
 title: "Homebrew Commands and Optimization"
-date: 2025-11-28
+date: 2026-01-14
 tags:
   - "Homebrew"
   - "Apple Ecosystem"

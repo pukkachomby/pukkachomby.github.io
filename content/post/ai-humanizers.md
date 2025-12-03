@@ -1,6 +1,6 @@
 ---
 title: "The Great AI Humanizer Showdown"
-date: 2025-11-30
+date: 2026-01-28
 tags:
   - "AI"
   - "Content & Writing"

@@ -1,6 +1,6 @@
 ---
 title: "Air Fryer Eggs"
-date: 2025-12-03
+date: 2026-01-07
 tags:
   - "Recipe"
   - "Air Fryer"

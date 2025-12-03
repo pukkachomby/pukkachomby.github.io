@@ -1,6 +1,6 @@
 ---
 title: "Linux Power on macOS"
-date: 2025-11-28
+date: 2025-12-24
 tags:
   - "Apple Ecosystem"
   - "Operating Systems"

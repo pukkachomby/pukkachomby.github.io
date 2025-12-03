@@ -1,6 +1,6 @@
 ---
 title: "Block The Bad Sites"
-date: 2025-11-27
+date: 2026-02-11
 tags:
   - "Internet Safety"
   - "Parental Controls"

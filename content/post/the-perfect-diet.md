@@ -1,6 +1,6 @@
 ---
 title: "The Perfect Diet"
-date: 2025-12-01
+date: 2026-02-18
 tags:
   - "Diet & Nutrition"
   - "Health & Wellness"
