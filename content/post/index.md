@@ -14,6 +14,7 @@
 
 DRAFTS
 ===============================================================================
+* perfect diet 3?  look at wiki/health.md
 * iphone ai summary shortcut (test w honey's phone first)
 * https://familyfocusblog.com/family-cleaning-schedule/
 * https://familyfocusblog.com/51-tips-for-traveling-with-family/
