@@ -1,12 +1,11 @@
 ---
-title: "The Perfect Diet 3"
+title: The Perfect Diet 3
 date: 2026-03-11
 tags:
-  - "Diet & Nutrition"
-  - "Health & Wellness"
-  - "Food & Cooking"
+  - Nutrition
+  - Health
 categories:
-  - "Food"
+  - Food
 ---
 
 Honing a working model into its simpliest form.  Also, being obsessive.

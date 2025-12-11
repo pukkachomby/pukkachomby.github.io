@@ -1,13 +1,13 @@
 ---
-title: "Block The Bad Sites"
+title: Block The Bad Sites
 date: 2026-02-11
 tags:
-  - "Internet Safety"
-  - "Parental Controls"
-  - "Security"
+  - Safety
+  - Security
+  - Parenting
 categories:
-  - "Family"
-  - "Tech"
+  - Family
+  - Tech
 ---
 
 AdGuard DNS helps block ads, trackers, malware, and adult websites.  Their Family protection servers are perfect for keeping kids safe.

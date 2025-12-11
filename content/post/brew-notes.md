@@ -1,12 +1,10 @@
 ---
-title: "Homebrew Commands and Optimization"
+title: Homebrew Commands and Optimization
 date: 2026-01-14
 tags:
-  - "Homebrew"
-  - "Apple Ecosystem"
-  - "Development"
+  - Apple
 categories:
-  - "Tech"
+  - Tech
 ---
 
 This guide details various Homebrew upgrade commands and flags. It also provides a script to make Homebrew faster on MacOS by optimizing its configuration.

@@ -1,11 +1,10 @@
 ---
-title: "Air Fryer Eggs"
+title: Air Fryer Eggs
 date: 2026-01-07
 tags:
-  - "Recipe"
-  - "Air Fryer"
+  - Recipe
 categories:
-  - "Food"
+  - Food
 ---
 
 Eggs, the lazy way.

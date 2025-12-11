@@ -1,15 +1,14 @@
 ---
-title: "Linux Power on macOS"
+title: Linux Power on macOS
 date: 2025-12-24
 tags:
-  - "Apple Ecosystem"
-  - "Operating Systems"
-  - "Linux"
-  - "Virtualization"
-  - "Docker"
-  - "Networking"
+  - Apple
+  - Linux
+  - Virtualization
+  - Docker
+  - Networking
 categories:
-  - "Tech"
+  - Tech
 ---
 
 This post explores various methods for connecting to Linux from macOS, including virtualization and remote access. It also covers connecting to macOS from Linux and managing iCloud files.

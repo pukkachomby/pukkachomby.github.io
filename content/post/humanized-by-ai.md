@@ -1,12 +1,12 @@
 ---
-title: "Humanized By AI"
+title: Humanized By AI
 date: 2026-02-04
 tags:
-  - "AI"
-  - "Gemini"
-  - "Content & Writing"
+  - AI
+  - Gemini
+  - Writing
 categories:
-  - "Tech"
+  - Tech
 ---
 
 In our last post we talked about paid alternatives to turn AI slop into text akin to something that a human would write.  In this post, I want to see what a regular, free AI chatbot can do.

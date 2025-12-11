@@ -1,13 +1,12 @@
 ---
-title: "The Perfect Diet 2"
+title: The Perfect Diet 2
 date: 2026-02-25
 tags:
-  - "Diet & Nutrition"
-  - "Health & Wellness"
-  - "Food & Cooking"
+  - Nutrition
+  - Health
 categories:
-  - "Food"
-  - "Tech"
+  - Food
+  - Tech
 ---
 
 Crafting a perfect diet without AI this time.

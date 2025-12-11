@@ -1,12 +1,12 @@
 ---
-title: "Best Musk Quotes"
+title: Best Musk Quotes
 date: 2026-01-21
 tags:
-  - "Elon Musk"
-  - "Business"
-  - "Quotes"
+  - Musk
+  - Business
+  - Quotes
 categories:
-  - "Misc"
+  - Misc
 ---
 
 Basking in the wisdom of Elon Musk together.

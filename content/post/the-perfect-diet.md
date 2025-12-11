@@ -1,15 +1,14 @@
 ---
-title: "The Perfect Diet"
+title: The Perfect Diet
 date: 2026-02-18
 tags:
-  - "Diet & Nutrition"
-  - "Health & Wellness"
-  - "AI"
-  - "Gemini"
-  - "Prompt Engineering"
+  - Nutrition
+  - Health
+  - AI
+  - Gemini
 categories:
-  - "Food"
-  - "Tech"
+  - Food
+  - Tech
 ---
 
 This was a rough one!  I asked AI to make me a perfect diet and meal plan.  Getting the results was brutal, and the diet may surprise you.

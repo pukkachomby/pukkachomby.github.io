@@ -1,15 +1,13 @@
 ---
-title: "Protecting Kids on the Internet"
+title: Protecting Kids on the Internet
 date: 2026-03-04
 tags:
-  - "Parental Controls"
-  - "Internet Safety"
-  - "Kids & Technology"
-  - "Social Media"
-  - "Security"
+  - Parenting
+  - Safety
+  - Security
 categories:
-  - "Family"
-  - "Tech"
+  - Family
+  - Tech
 ---
 
 My personal notes for protecting kids on the internet.
