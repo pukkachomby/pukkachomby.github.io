@@ -25,6 +25,8 @@ I actually am already using Homebrew on my Linux machine to get a lot of termina
 
 One standout for me is [copyparty](https://formulae.brew.sh/formula/copyparty) which, yes, you can [run on Linux](https://github.com/9001/copyparty) and yes, you can [run with Docker](https://github.com/9001/copyparty/tree/hovudstraum/scripts/docker).  In fact, I'm already running it with Docker, but it would still be cool to play around with it natively, so it makes the wishlist.
 
+Other possiblities are [Dangerzone](https://github.com/freedomofpress/dangerzone/blob/v0.10.0/INSTALL.md#macos) and [VSCodium](https://vscodium.com/) as installing them natively (with only a one-liner) is even easier than installing them on Linux.
+
 # Google Drive Desktop
 It's pretty basic, but oh boy do I wish I had this, as most of my work involves Google Docs now.
 
