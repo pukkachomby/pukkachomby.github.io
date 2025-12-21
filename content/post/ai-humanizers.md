@@ -1,11 +1,11 @@
 ---
-title: "The Great AI Humanizer Showdown"
-date: "2026-01-28"
+title: The Great AI Humanizer Showdown
+date: 2026-01-28
 tags:
-  - "AI"
-  - "Writing"
+  - AI
+  - Writing
 categories:
-  - "Tech"
+  - Tech
 ---
 
 AI humanizers/rewriters are special tools to transform AI-generated content into seemingly human-written material.  But are they actually good?  Let's explore together.
