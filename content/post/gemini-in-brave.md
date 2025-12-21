@@ -1,6 +1,6 @@
 ---
 title: "Gemini In Brave"
-date: 2025-12-03
+date: 2026-02-18
 tags:
   - "Gemini"
   - "AI"

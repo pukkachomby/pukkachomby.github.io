@@ -1,6 +1,6 @@
 ---
 title: Effective AI Prompting Strategies
-date: 2025-12-10
+date: 2026-02-25
 tags:
   - AI
 categories:

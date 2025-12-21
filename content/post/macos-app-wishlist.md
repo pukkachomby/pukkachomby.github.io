@@ -1,6 +1,6 @@
 ---
 title: macOS App Wishlist
-date: 2025-12-17
+date: 2026-03-11
 tags:
   - Apple
 categories:
@@ -27,9 +27,12 @@ One standout for me is [copyparty](https://formulae.brew.sh/formula/copyparty) w
 
 Other possiblities are [Dangerzone](https://github.com/freedomofpress/dangerzone/blob/v0.10.0/INSTALL.md#macos) and [VSCodium](https://vscodium.com/) as installing them natively (with only a one-liner) is even easier than installing them on Linux.
 
-# Google Drive Desktop
+## Google Drive Desktop
 It's pretty basic, but oh boy do I wish I had this, as most of my work involves Google Docs now.
 
 It's true that and GNOME has Google Drive integration, but that's mounting which is slower than syncing, making it less than ideal.
 
 Of course, Rclone is an option too, but nothing beats native in terms of preserving the Google Drive cloud data format.  Since Rclone must request an export/conversion to a standard format like `.docx`, some formatting will be altered.  This makes maintaining consistency of formatting throughout all documents (especially those edited locally) a challenge.
+
+## VSCodium Extensions
+For some reason, the Tailscale VSCodium extension doesn't run on Linux, so I'm hoping that it'll work on MacOS.  All the files on my network organized by Tailscale node?  Don't mind if I do...

@@ -1,6 +1,6 @@
 ---
 title: The Perfect Diet 2
-date: 2026-02-25
+date: 2025-12-10
 tags:
   - Nutrition
   - Health
