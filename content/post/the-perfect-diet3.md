@@ -47,8 +47,8 @@ Food can now be classified thusly:
 #### Protein Servings
 One *serving* of protein is defined as:
 * 217g pork
-* 250g chicken
 * 1 fish sandwich made from 155g sardines
+* 250g chicken
 * 6 eggs
 
 #### Sunflower Seed Servings
@@ -72,7 +72,9 @@ One *serving* of sunflower seeds is:
     * Eat all 300g of salmon and 3 eggs
     * Reserve 12 eggs for consumption as two protein *servings* later in the week
 * On days other than Sunday:
-    * 2 *servings* of protein
+    * 2 *servings* of protein, eg:
+        * 2 *servings* of pork
+        * 1 *serving* of sardines + 1 *serving* of chicken or eggs
     * 200ml of milk (half a coffee mug) *OR* the remaining egg
 * On all days:
     * One *serving* of sunflower seeds
