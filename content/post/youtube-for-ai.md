@@ -57,7 +57,7 @@ So I went to [this site](https://huggingface.co/spaces/sdiffu1024/FaceSwapAll) a
 ## TRELLIS
 Oh my god, I found something that worked!  Remember that ugly jacket from before?  Well, it's still ugly, but now it's in...3D!!!  It's a 3D ugly jacket!  *Yessss!*
 
-![pic](/img/ai-clothes.png)
+![pic](/img/ugly-3d-jacket.png)
 
 Thanks, [TRELLIS](https://huggingface.co/spaces/trellis-community/TRELLIS), for being the only good model so far on this god-awful website.
 
