@@ -82,6 +82,7 @@ Most modern web browsers (Chrome, Edge, Firefox) have their own built-in PDF vie
 Action: Open the suspicious PDF by right-clicking it and choosing Open with > [Your Browser Name]. The browser's PDF viewer typically runs with extremely limited permissions and either blocks JavaScript entirely or runs it within the secure sandbox.
 
 ---
+* ios shortcuts!
 * secure pdf ingestion with stirling pdf!
 * notebooklm: the best free google service you're not using
 * air fryer breakfast
