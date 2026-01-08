@@ -1,6 +1,6 @@
 ---
 title: Homebrew Commands and Optimization
-date: 2026-01-14
+date: 2026-01-28
 tags:
   - Apple
 categories:

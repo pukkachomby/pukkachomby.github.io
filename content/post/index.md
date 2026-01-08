@@ -7,11 +7,11 @@
 [[gemini-flavors]]
 [[no-more-joint-replacements]]
 2026-01-14
-[[brew-notes]]
+[[ai-humanizers]]
 2026-01-21
 [[best-musk-quotes]]
 2026-01-28
-[[ai-humanizers]]
+[[brew-notes]]
 2026-02-04
 [[humanized-by-ai]]
 2026-02-11

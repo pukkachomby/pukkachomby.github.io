@@ -1,6 +1,6 @@
 ---
 title: The Great AI Humanizer Showdown
-date: 2026-01-28
+date: 2026-01-14
 tags:
   - AI
   - Writing
@@ -135,3 +135,6 @@ Comparing it to the [original text](https://familyfocusblog.com/top-food-storage
 So thank you, Grammarly, for helping me to guiltlessly steal other people's shit.
 
 And, no, I did not proof-read this blog post (to show NO AI was used...and also because lazy).
+
+## Update
+These blog posts are written well in advance.  Since the writing of this post, Grammarly's free tier has gotten much less generous and Gemini 3 has been releaased.  I now prefer Gemini to Grammarly.
