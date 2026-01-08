@@ -2,7 +2,6 @@
 title: Block The Bad Sites
 date: 2026-02-11
 tags:
-  - Safety
   - Security
   - Parenting
 categories:

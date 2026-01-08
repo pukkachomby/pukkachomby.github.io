@@ -3,9 +3,8 @@ title: The Perfect Diet 3
 date: 2025-12-17
 tags:
   - Nutrition
-  - Health
 categories:
-  - Food
+  - Health
 ---
 
 Honing a working model into its simpliest form.  Also, being obsessive.

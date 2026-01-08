@@ -3,11 +3,10 @@ title: The Perfect Diet
 date: 2025-12-03
 tags:
   - Nutrition
-  - Health
   - AI
   - Gemini
 categories:
-  - Food
+  - Health
   - Tech
 ---
 

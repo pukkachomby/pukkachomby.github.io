@@ -1,13 +1,11 @@
 ---
-title: "Gemini In Brave"
+title: Gemini In Brave
 date: 2026-02-18
 tags:
-  - "Gemini"
-  - "AI"
-  - "Google"
-  - "Development"
+  - Gemini
+  - AI
 categories:
-  - "Tech"
+  - Tech
 ---
 
 Learning how to ditch Leo's collection of shit AIs (I'm looking at YOU Llama) in favor of a slightly less shit AI (Gemini).

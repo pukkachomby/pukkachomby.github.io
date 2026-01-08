@@ -1,18 +1,11 @@
 # Done
-2025-11-26
 [[thanksgiving-reheating]]
-2025-12-03
 [[the-perfect-diet]]
-2025-12-10
 [[the-perfect-diet2]]
-2025-12-17
 [[the-perfect-diet3]]
-2025-12-24
 [[apple-and-linux]]
-2025-12-31
 [[gemini-flavors]]
-2026-01-07
-[[air-fryer-eggs]]
+[[no-more-joint-replacements]]
 2026-01-14
 [[brew-notes]]
 2026-01-21
@@ -34,6 +27,7 @@
 2026-03-18
 [[youtube-for-ai]]
 2026-03-25
+[[air-fryer-eggs]]
 2026-04-01
 2026-04-08
 2026-04-15
@@ -82,6 +76,12 @@ Most modern web browsers (Chrome, Edge, Firefox) have their own built-in PDF vie
 Action: Open the suspicious PDF by right-clicking it and choosing Open with > [Your Browser Name]. The browser's PDF viewer typically runs with extremely limited permissions and either blocks JavaScript entirely or runs it within the secure sandbox.
 
 ---
+
+* https://vickypham.com/
+* youtube ads and why i'm a brave user
+* https://github.com/darkreader/darkreader/issues/8730
+* anything from the wiki that you want to clear out of the wiki (and can be publicized)
+* https://www.youtube.com/watch?v=HbxpZbiAdtI
 * ios shortcuts!
 * secure pdf ingestion with stirling pdf!
 * notebooklm: the best free google service you're not using

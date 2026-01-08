@@ -1,6 +1,6 @@
 ---
 title: Air Fryer Eggs
-date: 2026-01-07
+date: 2026-03-25
 tags:
   - Recipe
 categories:

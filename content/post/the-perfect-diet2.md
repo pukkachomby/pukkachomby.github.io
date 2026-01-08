@@ -3,9 +3,10 @@ title: The Perfect Diet 2
 date: 2025-12-10
 tags:
   - Nutrition
-  - Health
+  - AI
+  - Gemini
 categories:
-  - Food
+  - Health
   - Tech
 ---
 

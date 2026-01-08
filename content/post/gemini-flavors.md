@@ -2,12 +2,10 @@
 title: "The Flavors of Gemini"
 date: 2025-12-31
 tags:
-  - "Gemini"
-  - "Development"
-  - "Google"
-  - "AI"
+  - Gemini
+  - AI
 categories:
-  - "Tech"
+  - Tech
 ---
 
 Gemini access methods, including the web app, API, and CLI, utilize distinct quota systems and billing structures. Each method operates with its own specific usage limits.
