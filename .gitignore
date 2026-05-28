@@ -1,1 +1,27 @@
+# Hugo built-in defaults
+/public/
+/resources/_gen/
+/.hugo_build.lock
+
+# If you use Hugo Modules, ignore the cache
+/.hugo_cache/
+
+# Node/NPM dependencies (if using PostCSS, Tailwind, etc.)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Operating System files
 .DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
