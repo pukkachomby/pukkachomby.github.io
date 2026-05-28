@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Home"
+title = "Pukka Chomby"
 
 [params]
   displayName = "EN"
@@ -17,7 +17,7 @@ title = "Home"
 [params.author]
   name = "Pukka Chomby"
 #   email = "youremail@example.com"
-  image = "img/profile.jpeg"
+  image = "profile.jpeg"
 #   imageQuality = 96
   headline = "The ghost with the least."
   bio = "The ghost with the least."
