@@ -7,7 +7,7 @@ tags:
 ---
 ## Dog With Glasses
 
-![Dog with glasses](img/2a.webp)
+![Dog with glasses](dog.webp)
 
 And you thought this post was gonna be about sunflower seeds.  Just trying to keep you on your toes.
 
@@ -17,13 +17,13 @@ Whole sunflower seeds (with the shell) are awesome, especially if you get coconu
 
 "Don't you see how fasttttt I can eat them?" you enquire.  "Yeah, my friend at work can eat them fast like that, too," your wife replies.  Yeah, well fuck your friend.  Just when I was starting to feel good about myself, you have to... ok ok, take a deep breath.
 
-What were we talking about?  Right, dental work.  So I lied -- there's actually not one, but two downsides to in-shell sunflower seeds, and that's how eventually, your lust for busting those shells open with your front teeth with slowly start to erode your enamel (particularly in the bottom teeth) and then you're forced to start using mouth wash for old people (the kind that you use for like a month to numb your tooth nerves so you can't feel pain anymore).  Trust me; I speak from experience.
+What were we talking about?  Right, dental work.  So I lied -- there's actually not one, but two downsides to in-shell sunflower seeds, and that's how eventually, your lust for busting those shells open with your front teeth will slowly start to erode your enamel (particularly in the bottom teeth) and then you're forced to start using mouthwash for old people (the kind that you use for like a month to numb your tooth nerves so you can't feel pain anymore).  Trust me; I speak from experience.
 
-So what's a girl to do?  Buy shelled sunflower seeds and roast them shits.  But wait -- you live in a 3rd world country and don't have an oven.  Never fear -- that's what air fryers are for.  And also -- I don't know why I'm using so many em dashes either.  But -- wow -- I need to stop -- like -- right now.
+So what's a girl to do?  The answer is: Buy shelled sunflower seeds and roast them shits.  But wait -- you live in a 3rd world country and don't have an oven.  Never fear -- that's what air fryers are for.  And also -- I don't know why I'm using so many em dashes -- either.
 
 ## Recipe
 
-![Roasted sunflower seeds](img/2b.webp)
+![Roasted sunflower seeds](feature.webp)
 
 ### Materials
 * Raw sunflower seed kernels
