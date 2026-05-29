@@ -1,10 +1,13 @@
 ---
 title: New Movie/Show Reviews
-date: 2026-05-30
+date: 2026-06-01
 draft: true
 tags:
     - entertainment
 ---
+## Background
+Here are some movie/show reviews, as I've been watching a lot of these lately.  No, definitely not because I have free time, but because my baby insists on napping on me, so while this happens, I check out the latest content.
+
 ## Spider Noir
 
 I guess a retelling of Spiderman set in the 30s or something?  Wouldn't know because I tuned out after the first 5 minutes on account of how bad the special effects were.  Too bad because I was really looking forward to the new Nick Cage joint.
@@ -24,6 +27,8 @@ A technically perfect movie.  This is how sci fi should be done.  A serious movi
 ## Over Your Dead Body
 
 Couldn't tell you because I checked out after 5 minutes or so.  It's shot in that weird Hallmark style where everything looks too good.  Right up front, I also wasn't impressed by the acting or the script, so I smashed `CLOSE` on my media player pretty fast.  Oh well.
+
+## Marty Supreme
 
 ## Master of the Universe
 

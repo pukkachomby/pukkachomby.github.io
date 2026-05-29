@@ -19,8 +19,9 @@ Other than that, there are just a few more vocabulary words that you should know
 * A washroom is called a bathroom
 * Toques are called a beanies
 * Labatt Blue is called horse piss
+* What you would call "water," Americans call "maple syrup"
 
-## What is this blog actually aboot?
+## So what is this blog ACTUALLY aboot?
 
 Oh, yeah.  I was supposed to talk about this blog.  Not Canadians.  Why does this always happen to me?
 

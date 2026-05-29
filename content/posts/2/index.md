@@ -1,13 +1,13 @@
 ---
 title: Air Fryer Sunflower Seeds
 date: 2026-05-29
-draft: true
+draft: false
 tags:
     - food
 ---
 ## Dog With Glasses
 
-![Dog with glasses](img/dogwglasses.webp)
+![Dog with glasses](img/2a.webp)
 
 And you thought this post was gonna be about sunflower seeds.  Just trying to keep you on your toes.
 
@@ -23,7 +23,7 @@ So what's a girl to do?  Buy shelled sunflower seeds and roast them shits.  But 
 
 ## Recipe
 
-![Roasted sunflower seeds](img/sunflower-seeds.png)
+![Roasted sunflower seeds](img/2b.webp)
 
 ### Materials
 * Raw sunflower seed kernels

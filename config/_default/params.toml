@@ -5,7 +5,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://blowfish.page/docs/configuration/#theme-parameters
 
-colorScheme = "blowfish"
+colorScheme = "fire"
 defaultAppearance = "dark" # valid options: light or dark
 # I THINK THIS IS MATCH SYSTEM APPEARANCE
 autoSwitchAppearance = false
@@ -70,17 +70,17 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [article]
   showDate = true
-  showViews = false
+  showViews = true
   showLikes = false
-  showDateOnlyInArticle = false
-  showDateUpdated = false
+  showDateOnlyInArticle = true
+  showDateUpdated = true
   showAuthor = true
   # showAuthorBottom = false
   showHero = true
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
   # editURL = "https://github.com/username/repo/"
@@ -93,14 +93,14 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
-  showTaxonomies = false # Enable the display of taxonomies for the related article.
+  showTaxonomies = true # Enable the display of taxonomies for the related article.
   showCategories = false # These will show if showTaxonomies is true.
   showTags = true # These will show if showTaxonomies is true.
   showCategoriesInSecondaryColor = false # This will change the color of category badges, so the user can better distinguish between the two. Only if showTaxonomies is true.
   showAuthorsBadges = false
   showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram", "line"]
-  showZenMode = false
+  showZenMode = true
   # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
 
 [list]
@@ -149,13 +149,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   cardViewScreenWidth = false
 
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyBzJS72GS8CwjFkZQbwJPaxl75dYgrXu40"
+  authDomain = "hugo-blog-64a90.firebaseapp.com"
+  projectId = "hugo-blog-64a90"
+  storageBucket = "hugo-blog-64a90.firebasestorage.app"
+  messagingSenderId = "881277926213"
+  appId = "1:881277926213:web:a24b02f345b5ef224edc2c"
+  measurementId = "G-VH9EBWW2WS"
 
 [fathomAnalytics]
   # site = "ABC12345"
