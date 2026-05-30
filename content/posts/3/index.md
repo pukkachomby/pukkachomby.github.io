@@ -30,7 +30,13 @@ Couldn't tell you because I checked out after 5 minutes or so.  It's shot in tha
 
 ## Marty Supreme
 
+Entertaining.  Timothee Chalamet plays a scrawny, obnoxious character, but you saw that one coming.  Joking aside, he's pretty good, as usual.  All the elements of the movie are pretty solid, and the story of the main character is insane.
+
 ## Master of the Universe
+
+No.  Just no.
+
+Man, I thought this was gonna be like the He-Man movie/cartoons that I grew up watching but it was just a shit show that I stopped watching after 2 minutes.  And I'm pissed and I want my 2 minutes of life back.
 
 ## Mortal Kombat II
 
