@@ -23,7 +23,7 @@ So what's a girl to do?  The answer is: Buy shelled sunflower seeds and roast th
 
 ## Recipe
 
-![Roasted sunflower seeds](feature.webp)
+![Roasted sunflower seeds](seeds.webp)
 
 ### Materials
 * Raw sunflower seed kernels

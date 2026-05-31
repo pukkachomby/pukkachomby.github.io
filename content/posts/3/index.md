@@ -10,7 +10,7 @@ Here are some movie/show reviews, as I've been watching a lot of these lately.  
 
 ## Spider Noir
 
-I guess a retelling of Spiderman set in the 30s or something?  Wouldn't know because I tuned out after the first 5 minutes on account of how bad the special effects were.  Too bad because I was really looking forward to the new Nick Cage joint.
+I guess a retelling of Spiderman set in the 30s or something?  Wouldn't know because I tuned out after the first 5 minutes on account of how bad the special effects were.  Too bad because I was really looking forward to the new Nick Cage joint.  Really wondering why it got such a great Rotten Tomatoes score.  I guess other people aren't as picky as me when it comes to special effects?
 
 ## The Punisher: One Last Kill
 
@@ -31,12 +31,6 @@ Couldn't tell you because I checked out after 5 minutes or so.  It's shot in tha
 ## Marty Supreme
 
 Entertaining.  Timothee Chalamet plays a scrawny, obnoxious character, but you saw that one coming.  Joking aside, he's pretty good, as usual.  All the elements of the movie are pretty solid, and the story of the main character is insane.
-
-## Master of the Universe
-
-No.  Just no.
-
-Man, I thought this was gonna be like the He-Man movie/cartoons that I grew up watching but it was just a shit show that I stopped watching after 2 minutes.  And I'm pissed and I want my 2 minutes of life back.
 
 ## Mortal Kombat II
 

@@ -1,7 +1,8 @@
 ---
-title: Facebook No More
+title: Mexican Food
 date: 2026-06-02
 draft: true
 tags:
-    - tech
+    - family
 ---
+block the bad sites

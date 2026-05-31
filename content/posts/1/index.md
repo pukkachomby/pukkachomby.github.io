@@ -13,7 +13,7 @@ If you're Canadian and you're finding that you're having difficulty pronouncing 
 
 After you can successfully pronounce the word *about*, we will welcome you as an honorary American and give you a congratulatory flannel shirt and a bumper sticker which reads: "Bob Dole '96."  Pretty sweet deal, eh?
 
-Moving forward, should your Canadian friends give you any trouble for becoming an honorary American, just tell them that you got your GED (ie, your Grade 12) and that you don't have to take shit from anybody (like a true American).
+Moving forward, should your Canadian friends give you any trouble for becoming an honorary American, just tell them that you got your GED (ie, your Grade 12) and that you don't have to take shit from anybody (like a true American would).
 
 Other than that, there are just a few more vocabulary words that you should know before you'll be ready to enjoy your new life as a real, red-blooded American:
 * A washroom is called a bathroom
