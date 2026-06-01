@@ -1,5 +1,5 @@
 ---
-title: Mexican Food
+title: Block
 date: 2026-06-02
 draft: true
 tags:
