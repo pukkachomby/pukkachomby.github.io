@@ -10,3 +10,10 @@ The topic for the image is
 - food
 - tech
 - workout
+
+# Future
+block the bad sites
+how i became an arms dealer
+upstairs neighbor?
+photography
+calisthenics skills
