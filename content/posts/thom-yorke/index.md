@@ -8,7 +8,7 @@ tags:
 
 ## Background
 
-On May 21, [Thom Yorke gave a speech](https://www.youtube.com/watch?v=6_7DK7aObPM&t=315s&pp=ygUPdGhvbSB5b3JrZSBpdm9y) at the Ivor Novello Awards in London and received the Fellowship of The Ivors Academy (the highest honor they award) for his contribution to music through his excellent work in the bands Radiohead and Atoms for Peace, and *not* for his shitty solo work, nor for most of the music he made while in his latest band, The Smile.
+On May 21, [Thom Yorke gave a speech](https://www.youtube.com/watch?v=6_7DK7aObPM) at the Ivor Novello Awards in London and received the Fellowship of The Ivors Academy (the highest honor they award) for his contribution to music through his excellent work in the bands Radiohead and Atoms for Peace, and *not* for his shitty solo work, nor for most of the music he made while in his latest band, The Smile.
 
 Why did it take me 2 weeks to write this post?  That's life when you have a 1-year-old.
 
