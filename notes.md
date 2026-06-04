@@ -8,3 +8,5 @@ The topic for the image is
 - entertainment
 - family
 - food
+- tech
+- workout

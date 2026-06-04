@@ -6,3 +6,5 @@ tags:
     - family
 ---
 block the bad sites
+
+upstairs neighbor?
