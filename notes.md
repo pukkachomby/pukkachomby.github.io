@@ -17,3 +17,9 @@ how i became an arms dealer
 upstairs neighbor?
 photography
 calisthenics skills
+
+# Shortcuts
+* Cmd + p, Cmd + P
+* Git Sync: Cmd + k, Cmd + g
+* Terminal: Ctrl + ~
+* Move headers: Cmd + Shift + . , Cmd + Shift + o
