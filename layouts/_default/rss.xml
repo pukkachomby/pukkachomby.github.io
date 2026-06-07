@@ -15,7 +15,7 @@
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       <guid>{{ .Permalink }}</guid>
-      <description>{{ .Content | transform.XMLEscape }}</description>
+      <description>{{ .Content | safeHTML | transform.XMLEscape }}</description>
     </item>
     {{- end -}}
   </channel>
