@@ -14,7 +14,7 @@ Why did it take me 2 weeks to write this post?  That's life when you have a 1-ye
 
 ## Climate Change
 
-First off, the speech (which accrued only 78k views on YouTube because I guess it's cool to hate Radiohead again?) was very much what you'd expect from Thom Yorke -- intelligent, wise, thoughtful, accurate... and utterly dickish, in true Thom Yorke style.
+First off, the speech (which accrued only 78k views on YouTube because I guess it's cool to hate Radiohead again?) was very much what you'd expect from Thom Yorke -- intelligent, wise, thoughtful, accurate... and utterly dickish, in [true Thom Yorke style](https://youtu.be/za_ze85LcBA?t=2).
 
 This time, however, instead of going on about climate change, he spoke to his field of expertise, commenting on the music industry and, by extension, the whole of the entertainment industry.
 
