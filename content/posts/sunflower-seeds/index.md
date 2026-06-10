@@ -34,7 +34,7 @@ So what's a girl to do?  The answer is: Buy shelled sunflower seeds and roast th
 * In an oven-safe casserole dish, layer kernels 1cm high
 * Coat with enough fat to cover
 * Add salt/pepper to taste
-* Air fry @180C for 15 minutes, stir, then cook for another 15 minutes (or until golden to dark brown)
+* Air fry @180C for 15 minutes, stir, then cook for another 12 minutes (or until golden to dark brown)
 * Cool
 
 ### Notes
