@@ -1,0 +1,117 @@
+table,
+table th,
+table td {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: 400;
+  letter-spacing: normal;
+  text-transform: none;
+}
+
+table th {
+  font-weight: 400;
+}
+
+.card-title {
+  position: relative;
+  padding-left: 1.9rem;
+}
+
+.card-title::before {
+  content: attr(data-emoji);
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1rem;
+  line-height: 1;
+}
+
+a[role="button"],
+button.bg-primary-600,
+a.bg-primary-600.no-underline.inline-block,
+a.bg-primary-600.no-underline.inline-flex {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.75rem;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: rgb(var(--color-primary-600));
+}
+
+a.bg-primary-600.no-underline.inline-block:hover,
+a.bg-primary-600.no-underline.inline-flex:hover,
+a[role="button"]:hover,
+button.bg-primary-600:hover,
+.hover\:bg-primary-700:hover,
+.hover\:bg-primary-500:hover,
+.hover\:\!bg-primary-500:hover,
+.dark\:hover\:\!bg-primary-700:hover,
+.dark\:hover\:\!bg-primary-500:hover,
+button[class*="bg-primary"][class*="hover:"]:hover,
+a[class*="bg-primary"][class*="hover:"]:hover {
+  background-color: #E29F37 !important;
+  color: #ffffff !important;
+  border-radius: 0.75rem;
+}
+
+a.bg-primary-600.no-underline.inline-block:focus-visible,
+a.bg-primary-600.no-underline.inline-flex:focus-visible,
+a[role="button"]:focus-visible,
+button.bg-primary-600:focus-visible {
+  outline: 2px solid rgba(var(--color-primary-300), 0.75);
+  outline-offset: 3px;
+}
+
+.hover\:bg-primary-100:hover,
+.hover\:bg-primary-200:hover,
+.hover\:bg-primary-300:hover,
+.hover\:bg-primary-400:hover,
+.hover\:bg-primary-500:hover,
+.hover\:bg-primary-600:hover,
+.hover\:bg-primary-700:hover,
+.hover\:\!bg-primary-500:hover,
+.hover\:\!bg-primary-700:hover,
+.dark\:hover\:bg-primary-100:hover,
+.dark\:hover\:bg-primary-200:hover,
+.dark\:hover\:bg-primary-300:hover,
+.dark\:hover\:bg-primary-400:hover,
+.dark\:hover\:bg-primary-500:hover,
+.dark\:hover\:bg-primary-600:hover,
+.dark\:hover\:bg-primary-700:hover,
+.dark\:hover\:\!bg-primary-500:hover,
+.dark\:hover\:\!bg-primary-700:hover {
+  background-color: #E29F37 !important;
+}
+
+a[role="button"].px-8,
+button.bg-primary-600.px-8,
+a.bg-primary-600.no-underline.inline-block.px-8,
+a.bg-primary-600.no-underline.inline-flex.px-8 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+a[role="button"].px-4,
+button.bg-primary-600.px-4,
+a.bg-primary-600.no-underline.inline-block.px-4,
+a.bg-primary-600.no-underline.inline-flex.px-4 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* Widen body text content on all pages */
+.prose,
+.max-w-prose,
+.article-content.max-w-prose {
+  max-width: 85ch !important;
+}
+
+@media (min-width: 1280px) {
+  .prose,
+  .max-w-prose,
+  .article-content.max-w-prose {
+    max-width: 95ch !important;
+  }
+}

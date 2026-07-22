@@ -1,0 +1,24 @@
+weight = 1
+title = "Rùa Xanh"
+languageName = "English"
+
+[params]
+  displayName = "Tiếng Việt"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/logo_transparent.png"
+  description = "Tìm nhân lực vững, gọi vốn nhanh cho dự án."
+  locale = "en-US"
+  label = "English"
+
+[params.author]
+  name = "Rùa Xanh"
+  email = "info@ruaxanh.org"
+  image = "img/logo.png"
+  # headline = "Tìm nhân lực vững, gọi vốn nhanh cho dự án."
+  # bio = "Tìm nhân lực vững, gọi vốn nhanh cho dự án."
+  # links = [
+  #   { x-twitter = "https://twitter.com/burufugu" },
+  #   { github = "https://github.com/nunocoracao/blowfish" },
+  # ]

@@ -1,0 +1,41 @@
+<form action="https://formspree.io/f/your-form-id" method="POST" class="max-w-2xl my-6 space-y-4">
+  <div>
+    <label class="block text-sm font-semibold mb-1" for="name">Tên tổ chức / trường</label>
+    <input type="text" id="name" name="organization" required class="w-full p-3 rounded-lg border border-neutral-300 dark:border-neutral-700 bg-white dark:bg-neutral-800 text-sm focus:outline-none focus:ring-2 focus:ring-primary-600" placeholder="Ví dụ: Trường Trung học Mai Châu">
+  </div>
+
+  <div>
+    <label class="block text-sm font-semibold mb-1" for="contact_name">Người liên hệ & chức danh</label>
+    <input type="text" id="contact_name" name="contact_name" required class="w-full p-3 rounded-lg border border-neutral-300 dark:border-neutral-700 bg-white dark:bg-neutral-800 text-sm focus:outline-none focus:ring-2 focus:ring-primary-600" placeholder="Ví dụ: Hiệu trưởng Nguyễn">
+  </div>
+
+  <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+    <div>
+      <label class="block text-sm font-semibold mb-1" for="email">Địa chỉ email</label>
+      <input type="email" id="email" name="email" required class="w-full p-3 rounded-lg border border-neutral-300 dark:border-neutral-700 bg-white dark:bg-neutral-800 text-sm focus:outline-none focus:ring-2 focus:ring-primary-600" placeholder="ten@truong.edu.vn">
+    </div>
+    <div>
+      <label class="block text-sm font-semibold mb-1" for="phone">Số điện thoại / Zalo</label>
+      <input type="tel" id="phone" name="phone" class="w-full p-3 rounded-lg border border-neutral-300 dark:border-neutral-700 bg-white dark:bg-neutral-800 text-sm focus:outline-none focus:ring-2 focus:ring-primary-600" placeholder="+84 90 123 4567">
+    </div>
+  </div>
+
+  <div>
+    <label class="block text-sm font-semibold mb-1" for="track">Hình thức hỗ trợ</label>
+    <select id="track" name="track" required class="w-full p-3 rounded-lg border border-neutral-300 dark:border-neutral-700 bg-white dark:bg-neutral-800 text-sm focus:outline-none focus:ring-2 focus:ring-primary-600">
+      <option value="" disabled selected>Chọn chương trình...</option>
+      <option value="volunteer-placement">Hỗ trợ tình nguyện viên</option>
+      <option value="sponsorships">Hỗ trợ học bổng</option>
+      <option value="grants">Tài trợ dự án</option>
+      <option value="multiple">Cần nhiều loại hỗ trợ</option>
+      <option value="other">Câu hỏi chung / Khác</option>
+    </select>
+  </div>
+
+  <div>
+    <label class="block text-sm font-semibold mb-1" for="message">Chi tiết / Tin nhắn</label>
+    <textarea id="message" name="message" rows="5" required class="w-full p-3 rounded-lg border border-neutral-300 dark:border-neutral-700 bg-white dark:bg-neutral-800 text-sm focus:outline-none focus:ring-2 focus:ring-primary-600" placeholder="Mô tả vị trí, số học sinh hoặc nhu cầu cơ sở hạ tầng cụ thể..."></textarea>
+  </div>
+
+  <button type="submit" class="bg-primary-600 hover:bg-primary-700 text-white font-semibold py-3 px-8 rounded-lg cursor-pointer border-0">Gửi yêu cầu hỗ trợ</button>
+</form>
