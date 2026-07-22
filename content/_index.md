@@ -86,7 +86,7 @@ Gửi ảnh tình nguyện viên, học sinh hoặc dự án đã hoàn thành. 
 ---
 
 <div class="flex flex-wrap justify-center gap-4 my-6">
-  {{< button href="/teachers/" >}}Đăng ký tình nguyện viên{{< /button >}}
+  {{< button href="/volunteers/" >}}Đăng ký tình nguyện viên{{< /button >}}
   {{< button href="/sponsorships/" >}}Đăng ký hỗ trợ học bổng{{< /button >}}
-  {{< button href="/grants/" target="_self" >}}Đăng ký tài trợ dự án{{< /button >}}
+  {{< button href="/projects/" target="_self" >}}Đăng ký tài trợ dự án{{< /button >}}
 </div>
