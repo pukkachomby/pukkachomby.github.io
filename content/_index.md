@@ -35,7 +35,7 @@ showReadingTime: false
     <h3 class="text-lg font-bold mb-2 mt-0 card-title" data-emoji="🛠">Tài trợ dự án</h3>
     <p class="text-sm m-0">Kinh phí cho sửa chữa công trình, hệ thống lọc nước, phòng máy tính và nâng cấp cơ sở vật chất.</p>
     <div class="mt-4">
-      <a href="/grants/" class="text-primary-600 font-semibold no-underline hover:underline">Tìm hiểu thêm →</a>
+      <a href="/projects/" class="text-primary-600 font-semibold no-underline hover:underline">Tìm hiểu thêm →</a>
     </div>
   </div>
 </div>
