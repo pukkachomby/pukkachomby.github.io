@@ -2,7 +2,6 @@
 
 <form action="https://formspree.io/f/{{ $formId }}" method="POST" class="max-w-2xl my-6 space-y-4">
   <!-- Formspree Control Attributes -->
-  <input type="hidden" name="_replyto" value="{{ `{{email}}` }}">
   <input type="hidden" name="_subject" value="Yêu cầu hỗ trợ mới từ Website">
   <input type="hidden" name="_next" value="{{ "thanks/" | absURL }}">
   <input type="text" name="_gotcha" tabindex="-1" autocomplete="off" class="hidden">
