@@ -21,7 +21,7 @@ showReadingTime: false
     <h3 class="text-lg font-bold mb-2 mt-0 card-title" data-emoji="🎓">Tình nguyện viên</h3>
     <p class="text-sm m-0">Tình nguyện viên quốc tế tham gia giao lưu văn hóa, dạy tiếng Anh, hỗ trợ xây dựng, nông nghiệp và cứu trợ.</p>
     <div class="mt-4">
-      <a href="/teachers/" class="text-primary-600 font-semibold no-underline hover:underline">Tìm hiểu thêm →</a>
+      <a href="/volunteers/" class="text-primary-600 font-semibold no-underline hover:underline">Tìm hiểu thêm →</a>
     </div>
   </div>
   <div class="p-5 border rounded-xl shadow-sm bg-neutral-50 dark:bg-neutral-800 border-neutral-200 dark:border-neutral-700">
