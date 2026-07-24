@@ -64,7 +64,7 @@ showReadingTime: false
 ## Cách thức hoạt động
 
 **Bước 1: Gửi thông tin** <br/>
-<a href="/contact/" class="text-primary-600 font-semibold no-underline hover:underline">Cho chúng tôi biết</a> những thông tin cơ bản về cơ sở, vị trí và nhu cầu của bạn qua trang Liên hệ.
+Cho chúng tôi biết những thông tin cơ bản về cơ sở, vị trí và nhu cầu của bạn qua <a href="/contact/" class="text-primary-600 font-semibold no-underline hover:underline">trang Liên hệ</a>.
 
 **Bước 2: Trao đổi và lên kế hoạch** <br/>
 Trả lời một số câu hỏi về nhu cầu, thống nhất lịch trình và gửi ảnh (nếu cần).
